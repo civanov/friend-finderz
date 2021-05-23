@@ -1,3 +1,19 @@
 {
-    "dayjs": 1
+  "name": "test",
+  "version": "1.0.0",
+  "description": "friend-finderzzz11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/civanovme/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/civanovme/test/issues"
+  },
+  "homepage": "https://gitlab.com/civanovme/test#readme"
 }
