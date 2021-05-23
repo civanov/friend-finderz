@@ -1,1 +1,1 @@
-friend-finderz
+friend-finder
